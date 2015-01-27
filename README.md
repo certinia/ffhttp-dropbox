@@ -60,8 +60,11 @@ Make sure that the [Core](https://githubsfdeploy.herokuapp.com?owner=financialfo
 9. Make sure you know the **App Key** and **App Secret** as they will be needed later.
 
 ###Create a Connector in Salesforce
+
+This requires the [OAuth Sample App](https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core-samples) to be deployed.
+
 1. Log in to your Salesforce organisation.
-2. Select the **OAuth** app.
+2. Select the **OAuth Sample App**.
 3. Select **Connector Types** then **New**.
 4. Enter a **Connector Type Name** e.g. Dropbox.
 5. Set the **Authorization Endpoint** to https://www.dropbox.com/1/oauth2/authorize. 
