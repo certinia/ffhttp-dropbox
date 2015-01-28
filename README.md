@@ -13,6 +13,8 @@ An Apex framework has been created to provide functionality for Dropbox API call
 
 This library extends the [Core](https://github.com/financialforcedev/ffhttp-core) library to provide access to Dropbox API calls found at https://www.dropbox.com/developers/core/docs.
 
+Samples demonstrating the use of this library can be found [here](https://github.com/financialforcedev/ffhttp-dropbox-samples).
+
 Key Features
 ------------
 
